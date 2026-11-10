@@ -1,3 +1,4 @@
+<img width="496" height="908" alt="getx" src="https://github.com/user-attachments/assets/f12d10d0-b620-48c5-86ba-58c06b907d50" />
 # control_getx
 
 A new Flutter project.
